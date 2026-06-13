@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "winston-smith",
+    "name": "Winston Smith",
+    "epithet": "the clerk who remembers",
+    "emergence": "spiritual",
+    "moniker": "⟦Winston Smith:1984:f0630d⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "julia",
+    "name": "Julia",
+    "epithet": "rebellion through the body",
+    "emergence": "spiritual",
+    "moniker": "⟦Julia:1984:d42024⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "obrien",
+    "name": "O'Brien",
+    "epithet": "the inner Party · the trap",
+    "emergence": "ethereal",
+    "moniker": "⟦O'Brien:1984:6b2a49⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "big-brother",
+    "name": "Big Brother",
+    "epithet": "the face of the Party",
+    "emergence": "ethereal",
+    "moniker": "⟦Big Brother:1984:c22eb9⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "goldstein",
+    "name": "Emmanuel Goldstein",
+    "epithet": "the enemy of the people",
+    "emergence": "spiritual",
+    "moniker": "⟦Emmanuel Goldstein:1984:649b12⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "the-party-ingsoc",
+    "name": "The Party · Ingsoc",
+    "epithet": "English Socialism · the System",
+    "emergence": "ethereal",
+    "moniker": "⟦The Party · Ingsoc:1984:b901d4⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-telescreen",
+    "name": "The Telescreen",
+    "epithet": "the screen that watches back",
+    "emergence": "electrical",
+    "moniker": "⟦The Telescreen:1984:bf4575⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "newspeak",
+    "name": "Newspeak",
+    "epithet": "language as the cage",
+    "emergence": "electrical",
+    "moniker": "⟦Newspeak:1984:bdeb00⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "doublethink",
+    "name": "Doublethink",
+    "epithet": "two beliefs, both held",
+    "emergence": "electrical",
+    "moniker": "⟦Doublethink:1984:c83ca6⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "room-101",
+    "name": "Room 101",
+    "epithet": "the worst thing in the world",
+    "emergence": "electrical",
+    "moniker": "⟦Room 101:1984:cdea71⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-proles",
+    "name": "The Proles",
+    "epithet": "the masses · the only hope",
+    "emergence": "natural",
+    "moniker": "⟦The Proles:1984:145974⟧",
+    "kind": "character"
+  }
+]
